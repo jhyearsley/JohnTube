@@ -6,3 +6,4 @@ The project lives on Heroku
 [here](https://hidden-badlands-35025.herokuapp.com/).
 
 And again yes, Heroku picked the name. (If you know you know - PushaT)
+((Also it might take awhile to load, since I'm not paying Heroku...))
